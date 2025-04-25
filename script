@@ -1,4 +1,4 @@
 #!/bin/bash
 mkdir prueba 
 cd prueba 
-echo "Prueba exitosa Final" > archivo
+echo "Prueba exitosa - Prueba Final" > archivo
